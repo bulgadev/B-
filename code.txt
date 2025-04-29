@@ -1,0 +1,3 @@
+mut string lala = "paanana"
+
+yell -lala-
